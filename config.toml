@@ -27,7 +27,7 @@ keywords = "homepage, blog"
 images = [""]
 
 # Default theme "light" or "dark"
-defaultTheme = "dark"
+defaultTheme = "light"
 
 [taxonomies]
 category = "blog"
