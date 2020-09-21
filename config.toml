@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://notsag-dev.github.io/"
 title        = "@notsag_dev"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
