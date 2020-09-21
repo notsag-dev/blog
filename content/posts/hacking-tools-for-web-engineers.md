@@ -1,5 +1,5 @@
 ---
-title: "Security tools for web engineers"
+title: "Hacking tools for web engineers"
 date: 2020-09-21T04:02:47-03:00
 toc: false
 images:
